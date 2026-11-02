@@ -1,0 +1,8 @@
+                  Urgent                        Not Urgent
+Important        - Bot-API Connection           - Bazzar flipping function
+                 - Display Menus                - AH flipping function
+                 - Optimal huntrap placement    - Greenhouse layout
+
+Not Important    - Discord.py                   - Imaging
+                 - Combat slayers               - Accessibility settings
+                 - Color integration            - Audio
